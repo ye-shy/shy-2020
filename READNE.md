@@ -506,6 +506,6 @@ git push
 ```
 httpserver-->webframe  {method:'GET',info:'/'}
 
-webframe-->httpserver {status:'200',data:'ccccc'}
-```
-  进程线程是系统编程的核心操作
+webframe-->httpserver {status:'200',data:'ccccc
+```joy也修改了这一部分，所以不醒了
+>>>>>>> Joy_dev
